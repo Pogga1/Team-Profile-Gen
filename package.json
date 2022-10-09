@@ -1,0 +1,23 @@
+{
+  "name": "team-profile-gen",
+  "version": "1.0.0",
+  "description": "A application that displays employee information in a basic card format on html powered by node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pogga1/Team-Profile-Gen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pogga1/Team-Profile-Gen/issues"
+  },
+  "homepage": "https://github.com/Pogga1/Team-Profile-Gen#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
