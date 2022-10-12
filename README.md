@@ -1,6 +1,6 @@
 # Team-Profile-Gen
   ## https://github.com/Pogga1/Team-Profile-Gen
-  ## https://drive.google.com/file/d/1KDi9jSeM7r12caHWClxOP08dDziXMlPG/view
+ 
   # Description
   This project utilizes node.js and object oriented programming to provide the user with a html document filled with information they input through the node prompt
 # Table of Contents
@@ -22,7 +22,7 @@ You will need inquirer and jest for this application to run properly.
   # Contributions
   Contributors: 
   # Tests
-  The following is needed to run tests: N/A
+  The following is needed to run tests: npm test
   # Questions
   If you have any questions about the repository contact  directly at : Andreweysoldt@gmail.com.
   
