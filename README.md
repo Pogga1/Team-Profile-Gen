@@ -13,6 +13,7 @@
 * [Tests](#test)
 * [Questions](#questions)
 # Installation
+Screenshot 2022-10-12 154839
 The following necessary dependencies must be installed to run the application: 
 You will need inquirer and jest for this application to run properly.
 # Usage
